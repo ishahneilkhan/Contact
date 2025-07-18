@@ -5,7 +5,7 @@
   <a href="https://github.com/ishahneilkhan/about" target="_blank">
     <img src="https://img.shields.io/badge/Previous-555555?style=for-the-badge&logo=arrow-left&logoColor=white" alt="Previous" />
   </a>
-  <a href="https://github.com/ishahneilkhan/Contact" target="_blank">
+  <a href="https://github.com/ishahneilkhan?tab=projects" target="_blank">
     <img src="https://img.shields.io/badge/Next-1E40AF?style=for-the-badge&logo=arrow-right&logoColor=white" alt="Next" />
   </a>
 </p>
